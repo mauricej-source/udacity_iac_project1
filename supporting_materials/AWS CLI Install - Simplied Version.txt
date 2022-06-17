@@ -1,0 +1,40 @@
+----------------------------------------------------	  
+** AWS CLI Install
+----------------------------------------------------
+	At the command line
+    1.  pip install awscli --force-reinstall --upgrade
+	
+        REFERENCE NOTE:  
+		https://stackoverflow.com/questions/43873663/awscli-fails-to-work-no-module-named-awscli
+	
+----------------------------------------------------	
+** Add AWS CLI to System Environment Variable { PATH }	
+----------------------------------------------------
+	
+DEVNOTE:  Left to the engineer/developer to know how to do this 
+
+----------------------------------------------------	
+** Create an AWS User
+----------------------------------------------------	
+DEVNOTE:  Performed through the AWS Management Console { IAM }.  
+          This of course is with the understanding that the 
+		  engineer/developer will have a temporaty
+		  AWS Account through Udacity's Platform
+		 
+	Recommended Availability Zone: Region	 us-east-1
+	
+----------------------------------------------------	
+** AWS Configure and Validate
+----------------------------------------------------
+	At the command line
+	1.  aws --version
+	    Validate that it was installed correctly
+		
+	2.  aws configure
+	    Configure your AWS Client with the IAM Role Values above.
+		
+	3.  aws s3 ls
+	    aws iam -list-users
+		
+		Either will validate Successful Configuration of the AWSCLi
+	
