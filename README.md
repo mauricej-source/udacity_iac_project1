@@ -1,5 +1,5 @@
 # udacity_iac_project2
-Udacity Cloud DevOps Engineer Nanodegree Program - First Project { IOC - Infrastructure as Code } 
+Udacity Cloud DevOps Engineer Nanodegree Program - First Project { IAC - Infrastructure as Code } 
 
 ### Introduction
 
