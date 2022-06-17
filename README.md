@@ -6,10 +6,10 @@ Udacity Cloud DevOps Engineer Nanodegree Program - First Project { IOC - Infrast
 There will be two parts to this project:
 
 Diagram: You'll first develop a diagram that you can present as part of your portfolio and as a visual aid to understand the CloudFormation script.
-*** This will be found within the 'supporting_material' folder ***
+* This will be found within the 'supporting_material' folder ***
 
 Script (Template and Parameters): The second part is to interpret the instructions and create a matching CloudFormation script.
-*** This will be found within the 'projectroot' folder ***
+* This will be found within the 'projectroot' folder ***
 
 ### Project Requirements
 
